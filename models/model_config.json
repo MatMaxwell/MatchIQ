@@ -1,0 +1,21 @@
+{
+  "model_path": "/home/matma/workspace/MatchIQ/models/xgboost_model.json",
+  "feature_cols": [
+    "gender",
+    "age_gap",
+    "samerace",
+    "attr_delta",
+    "sinc_delta",
+    "intel_delta",
+    "fun_delta",
+    "amb_delta",
+    "shar_delta",
+    "compatibility_score",
+    "mutual_like",
+    "mutual_confidence",
+    "int_corr"
+  ],
+  "version": "1.0.0",
+  "auc": 0.9,
+  "accuracy": 0.8103
+}
